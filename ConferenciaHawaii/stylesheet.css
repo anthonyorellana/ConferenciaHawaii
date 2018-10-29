@@ -1,0 +1,33 @@
+/*Estilos relacionados con el Header*/
+.header  {background-color: #343a40; }
+.header img {width: 40%}
+.header span {font-size: 18px;
+vertical-align:baseline;
+font-family: serif;}
+.texto {color:  !important;}
+/*/header*/
+/*estilos relacionados con el footer*/
+.footer {background-color: #1E516F;
+color: white; }
+/*/Footer*/
+/*carousel*/
+.carousel img { height: 70vh;
+object-fit: cover;
+filter: grayscale(30%);}
+.carousel {position: relative;}
+.carousel .overlay {position: absolute;
+top: 0;
+bottom: 0;
+right: 0;
+left: 0;
+background-color: rgba(0,0,0,0.5);
+color: white;
+height: 100%;}
+.carousel .overlay .container,.carousel .row {height: 100%}
+.btn-Platzi {background-color:#97c93e !important;
+color:white;}
+
+/*xxxxxxx*/
+.lugar {background-color: #1E516F;
+color: white;}
+.lugar img {max-width: 100% }
